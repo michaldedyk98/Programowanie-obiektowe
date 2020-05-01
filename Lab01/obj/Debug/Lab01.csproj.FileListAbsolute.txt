@@ -1,0 +1,7 @@
+C:\Users\i5\Documents\Obiektowe\Programowanie_obiektowe_S\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\i5\Documents\Obiektowe\Programowanie_obiektowe_S\Lab01\bin\Debug\Lab01.exe
+C:\Users\i5\Documents\Obiektowe\Programowanie_obiektowe_S\Lab01\bin\Debug\Lab01.pdb
+C:\Users\i5\Documents\Obiektowe\Programowanie_obiektowe_S\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Users\i5\Documents\Obiektowe\Programowanie_obiektowe_S\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\i5\Documents\Obiektowe\Programowanie_obiektowe_S\Lab01\obj\Debug\Lab01.exe
+C:\Users\i5\Documents\Obiektowe\Programowanie_obiektowe_S\Lab01\obj\Debug\Lab01.pdb
